@@ -1,6 +1,14 @@
 # api-1pass
 
-A description of this package.
+Clone the project.
+Open Terminal app
+Go to Project folder
+Run Pod install
+Open Xcode
+Build and Run
+
+Actually The server is down at the moment, So you cannot login. But I think you can use it locally or Install a custom server.
+
 
 Encryption Libs used in 1Pass App and Cloud:
 
